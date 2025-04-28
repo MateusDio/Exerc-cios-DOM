@@ -1,0 +1,26 @@
+h1{
+color: #F3F3F3;
+
+}
+
+body{
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: linear-gradient(#8b32f4,#ffffff);
+    color: #ffffff;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+div{
+
+width: 100px;
+height: 100px;
+border-radius: 20px;
+
+
+}
+
