@@ -1,0 +1,53 @@
+div {
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    margin: auto;
+}
+
+.ola {
+    color: #F3F3F3;
+    background-color: blueviolet;
+    font-size: 20px;
+    padding: 20px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: linear-gradient(#f68c01, #8b1111);
+    color: #ffffff;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 100px;
+}
+
+button {
+    background-color: #F3F3F3;
+    color: #000000;
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+    gap: 10px;
+    display: flex;
+}
+
+
+    
+
+input {
+    
+    padding: 20px;
+    gap: 10px;
+    display: flex;
+    
+}
+
+button:hover {
+    background-color: #000000;
+    color: #F3F3F3;
+    transition: 0.5s;
+}
+
